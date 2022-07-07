@@ -1,10 +1,11 @@
 # TAREA-5-CAPITULOS-9-10
 ## 1. Objetivos
 ### Objetivo general
-- ghh
+- Comprender el análisis de ramas, lazos, nodos, el magnetismo y el electromagnetismo en circuitos eléctricos mediante la lectura e investigación de fuentes confiables con el fin de poner en práctica en la resolución de los ejercicios.
 ### Objetivos específicos
-- h
-- hh
+- Describir las ecuaciones simultáneas en el análisis de nodos, el método de corriente en ramas, lazos y nodos.
+
+- Describir qué es el campo magnético, el electromagnetismo y sus dispositivos, la histeresis magnética y la inducción electromagnética. 
 
 ## 2. Marco teórico
 ### Capítulo IX
@@ -54,8 +55,17 @@
 ![Diapositiva21](https://user-images.githubusercontent.com/105740772/177666913-d89a6e69-6c5f-439d-99a4-58c907be0b3f.JPG)
 
 ## 3. Explicación y resolución de los ejercicios
+Capítulo IV
+Capíutlo X
+
 ## 4. Video
+
+
 ## 5. Conclusiones
+-aaa
+
+-aaaa
+
 ## 6. Bibliografía
 
 loyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
