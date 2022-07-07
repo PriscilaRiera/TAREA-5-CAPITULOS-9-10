@@ -119,6 +119,54 @@
 
 ### Capíutlo X
 
+2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?
+
+![image](https://user-images.githubusercontent.com/105740772/177690522-a1ac770f-44b6-4f6b-b6e4-603e355488ca.png)
+
+4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas
+
+![image](https://user-images.githubusercontent.com/105740772/177690594-4abaedda-8c1d-47a8-a6ed-cc498b530019.png)
+
+6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
+
+![image](https://user-images.githubusercontent.com/105740772/177690860-74703552-6c67-4214-b36c-0ac1b56e7f23.png)
+
+8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m^2 si la permeabilidad absoluta es de 150x10^-7 Wb/At*m
+
+![image](https://user-images.githubusercontent.com/105740772/177690923-ab81aa3a-f69e-49c4-b503-a44e3606472d.png)
+
+10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+
+![image](https://user-images.githubusercontent.com/105740772/177691044-06eb031f-892f-4cc0-8b31-5044356517a9.png)
+
+12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra. 
+
+![image](https://user-images.githubusercontent.com/105740772/177691261-e64de822-99ae-4497-b18b-a1c98b03ddc8.png)
+
+14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
+
+![image](https://user-images.githubusercontent.com/105740772/177691365-939272bf-7770-4282-a338-820c3b0889a9.png)
+
+16. En la figura 10-44, hay 500 vueltas. Determine (a) H (b) φ (c) B
+
+![image](https://user-images.githubusercontent.com/105740772/177691668-eb634e2e-063e-4b86-b6fc-ebfb77798f73.png)
+
+18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
+
+![image](https://user-images.githubusercontent.com/105740772/177691797-815f1b14-d58b-4680-a64a-006361596c1e.png)
+
+20. Un campo magnético cambia a razón de 3500x10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
+
+![image](https://user-images.githubusercontent.com/105740772/177691862-c0d407c0-a0b6-4873-9cc6-a9e54b67fad3.png)
+
+22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+![image](https://user-images.githubusercontent.com/105740772/177692221-8f72301d-74ed-4f39-8178-1b2889e306f8.png)
+
+24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+
+![image](https://user-images.githubusercontent.com/105740772/177692309-e4a3a091-0f2c-414a-ae7e-668460eb8bd4.png)
+
 ## 4. Video
 
 https://www.youtube.com/watch?v=TJVi8tB-xMQ
@@ -130,4 +178,4 @@ https://www.youtube.com/watch?v=TJVi8tB-xMQ
 
 ## 6. Bibliografía
 
-loyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
+Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
