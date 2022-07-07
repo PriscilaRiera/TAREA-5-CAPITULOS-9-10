@@ -161,7 +161,7 @@
 
 22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
 
-![image](https://user-images.githubusercontent.com/105740772/177692221-8f72301d-74ed-4f39-8178-1b2889e306f8.png)
+![image](https://user-images.githubusercontent.com/105740772/177694985-eeff92c1-d111-47d6-9526-e6e3d5e31982.png)
 
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
 
