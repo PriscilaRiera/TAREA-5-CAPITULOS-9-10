@@ -172,9 +172,9 @@
 https://www.youtube.com/watch?v=TJVi8tB-xMQ
 
 ## 5. Conclusiones
--aaa
+-Si se desea calcular circuitos es muy útil utilizar cualquiera de las tres formas explicadas en el libro con el fin de encontrar el resultado correcto, a su vez los métodos de corrientes en ramas, lazos y voltaje estan fundamentados en las leyes de corrientes de Kirchhoff (LCK) de una forma en la que se mantiene y respeta la polaridad obteniendo así un sistema de ecuaciones más sencillo de resolver.
 
--aaaa
+-
 
 ## 6. Bibliografía
 
